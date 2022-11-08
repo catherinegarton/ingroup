@@ -1,0 +1,33 @@
+﻿Issue,Extremity,Orientation,Party,Self,Ingroup
+Safety net,Mild,Left,Liberal,89,82
+Universal healthcare,Mild,Left,Liberal,87,80
+Environment,Mild,Left,Liberal,94,84
+LGBT rights,Mild,Left,Liberal,93,86
+Safety net,Mild,Left,Conservative,62,40
+Universal healthcare,Mild,Left,Conservative,33.5,30
+Environment,Mild,Left,Conservative,57,41
+LGBT rights,Mild,Left,Conservative,59,36
+Reduced taxation,Mild,Right,Liberal,61,50
+Limited government,Mild,Right,Liberal,30,33
+Gun rights,Mild,Right,Liberal,40.5,28
+Strong military,Mild,Right,Liberal,56,43
+Reduced taxation,Mild,Right,Conservative,88,72
+Limited government,Mild,Right,Conservative,80,76
+Gun rights,Mild,Right,Conservative,87.5,80
+Strong military,Mild,Right,Conservative,94,85
+Restricting free speech,Extreme,Left,Liberal,13,19
+Political correctness,Extreme,Left,Liberal,24.5,41
+Affirmative action quotas,Extreme,Left,Liberal,31,52
+Safe spaces,Extreme,Left,Liberal,67,69
+Restricting free speech,Extreme,Left,Conservative,18,30
+Political correctness,Extreme,Left,Conservative,17,26
+Affirmative action quotas,Extreme,Left,Conservative,14,21
+Safe spaces,Extreme,Left,Conservative,27,25
+The Wall,Extreme,Right,Liberal,9.5,11
+Defunding public schools,Extreme,Right,Liberal,5.5,11
+Outlawing abortion,Extreme,Right,Liberal,8,12
+Discrimination,Extreme,Right,Liberal,5.5,10
+The Wall,Extreme,Right,Conservative,73.5,74
+Defunding public schools,Extreme,Right,Conservative,28.5,41
+Outlawing abortion,Extreme,Right,Conservative,48,63
+Discrimination,Extreme,Right,Conservative,21,35
